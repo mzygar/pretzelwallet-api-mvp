@@ -1,2 +1,2 @@
-# loafwallet-api
-Loafwallet API
+# pretzelwallet-api
+Pretzelwallet API stub

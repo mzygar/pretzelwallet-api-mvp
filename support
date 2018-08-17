@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>api.loafwallet.org/support</title>
+  <title>api.pretzelwallet.org/support</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -31,7 +31,7 @@
   <div class="container-fluid bottom-div">
     <div class="col">
       <p style="padding-top: 15px;">
-        Email <a href="mailto:contact@loafwallet.org">contact@loafwallet.org</a> and include detailed description and screenshots.
+        Email <a href="mailto:contact@pretzelwallet.org">contact@pretzelwallet.org</a> and include detailed description and screenshots.
         A new support interface is being worked on and will be updated soon...
       </p>
     </div>
